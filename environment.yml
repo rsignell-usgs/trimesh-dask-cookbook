@@ -6,9 +6,8 @@ dependencies:
   - numpy
   - pandas
   - fsspec
-  - os
   - configparser
-  - dask_gateway
+  - dask-gateway
   - geoviews
   - hvplot
   - jupyter-book
