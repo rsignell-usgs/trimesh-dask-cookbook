@@ -2,6 +2,14 @@ name: trimesh-dask-cookbook
 channels:
   - conda-forge
 dependencies:
+  - xarray
+  - numpy
+  - pandas
+  - fsspec
+  - configparser
+  - dask-gateway
+  - geoviews
+  - hvplot
   - jupyter-book
   - jupyterlab
   - pip
