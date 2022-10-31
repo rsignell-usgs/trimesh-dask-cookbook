@@ -1,4 +1,4 @@
-name: cookbook-dev
+name: trimesh-dask-cookbook 
 channels:
   - conda-forge
 dependencies:
